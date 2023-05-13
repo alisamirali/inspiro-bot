@@ -30,7 +30,7 @@ $ npm run dev
 
 ### Open in browser
 
-Open the local host link in your browser, and enjoy!
+Open the localhost link in your browser, and enjoy!
 
 
 ![Modern Minimalist Website Launch Promotion Instagram Post](https://github.com/alisamirali/inspiro-bot/assets/62913154/655e4f56-6d37-43df-8abf-fe7c3b14e415)
