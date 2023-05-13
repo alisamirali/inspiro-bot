@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Inspiro Bot
 
-## Getting Started
+## Discover & Share AI-Powered Prompts
 
-First, run the development server:
+InspiroBot is an AI-powered tool that is open-source and designed to help people discover, create, and share creative prompts.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
+### Getting Started
+
+To get started with the website, clone the repo:
+
+```
+$ git clone https://github.com/alisamirali/inspiro-bot.git
+$ cd summary
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then install the dependencies:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+$ npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Running the App
 
-## Learn More
+To run the app, start the Expo development server:
 
-To learn more about Next.js, take a look at the following resources:
+```
+$ npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Open in browser
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Open the local host link in your browser, and enjoy!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Modern Minimalist Website Launch Promotion Instagram Post](https://github.com/alisamirali/inspiro-bot/assets/62913154/655e4f56-6d37-43df-8abf-fe7c3b14e415)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Live demo
+
+You can try the website directely from here: https://inspiro-bot.vercel.app
+
