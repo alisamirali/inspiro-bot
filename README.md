@@ -11,7 +11,7 @@ To get started with the website, clone the repo:
 
 ```
 $ git clone https://github.com/alisamirali/inspiro-bot.git
-$ cd summary
+$ cd inspiro-bot
 ```
 
 Then install the dependencies:
